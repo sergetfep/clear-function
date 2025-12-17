@@ -1,0 +1,28 @@
+{
+  "name": "clear-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergetfep/clear-function.git"
+  },
+  "author": "sergetfep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergetfep/clear-function/issues"
+  },
+  "homepage": "https://github.com/sergetfep/clear-function#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.28.3",
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "core-js": "^3.47.0"
+  }
+}
